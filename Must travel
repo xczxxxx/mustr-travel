@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mustr Travel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>✈️ Mustr Travel</h1>
+  <p>Sayohatlaringiz biz bilan oson!</p>
+  <nav>
+    <a href="index.html">Bosh sahifa</a>
+    <a href="visa.html">Viza olish</a>
+    <a href="contact.html">Bog‘lanish</a>
+  </nav>
+</body>
+</html>
