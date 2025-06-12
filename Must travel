@@ -14,3 +14,25 @@
   </nav>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Viza olish - Mustr Travel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🛂 Viza olish formasi</h1>
+  <form action="https://formspree.io/f/your-id" method="POST">
+    <label>Ism:</label><br>
+    <input type="text" name="ism" required><br><br>
+    
+    <label>Mamlakat:</label><br>
+    <input type="text" name="mamlakat" required><br><br>
+    
+    <label>Pasport raqami:</label><br>
+    <input type="text" name="pasport" required><br><br>
+    
+    <button type="submit">Yuborish</button>
+  </form>
+</body>
+</html>
